@@ -28,6 +28,9 @@ public class Item {
     public void setName(String name) {
         this.name = name;
     }
+
+    public static void add(Item item) {
+    }
     
 }
 
